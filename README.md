@@ -1,9 +1,10 @@
-![Holiday Road Project](https://user-images.githubusercontent.com/62270575/112025826-f2d6da00-8b0b-11eb-833f-c77ad74446b5.png)
 
 # Holiday Road from Nashville
 While attending Nashville Software School, Cohort 47- We were tasked with a group project to create a 'National Parks' travel itinerary app based on a chosen 'client persona'
  
 My main contributions included writing Javascript to populate very itinerary preview and detail snapshot/alert boxes to the DOM, as well as slight CSS relating to UI/UX
+
+![Holiday Road Project](https://user-images.githubusercontent.com/62270575/112025826-f2d6da00-8b0b-11eb-833f-c77ad74446b5.png)
 
 ## Installation
 git clone this repository or download zip
