@@ -11,7 +11,21 @@ git clone this repository or download zip
 ## Usage
 1. 'serve' in the project's root directory  
 2. Navigate to the project's "root directory"/api and run: 'json-server -p 8090 -w db.json'
-3. API keys will be needed to access data
+3. API keys will be needed to access data:
+
+     API home: https://www.nps.gov/subjects/digital/nps-data-api.htm
+     API documentation: https://www.nps.gov/subjects/developer/api-documentation.htm
+     List All Parks
+     https://developer.nps.gov/api/v1/parks?api_key=your_api_key
+
+     Weather API
+     https://openweathermap.org/api
+
+     Bizarre Destination
+     http://holidayroad.nss.team/bizarreries
+
+     Eateries Destination
+     http://holidayroad.nss.team/eateries
 
 
 ## Contributing
